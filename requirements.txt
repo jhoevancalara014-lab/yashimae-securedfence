@@ -1,0 +1,6 @@
+MONGO_URL="mongodb://localhost:27017"
+DB_NAME="test_database"
+CORS_ORIGINS="*"
+JWT_SECRET="b9c3a7f2d8e14f6a91b27c3d8e5f0a9b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f"
+ADMIN_EMAIL="admin@yashimae.com"
+ADMIN_PASSWORD="Admin@1234"
